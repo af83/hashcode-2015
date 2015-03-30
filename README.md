@@ -16,3 +16,9 @@ For test:
 ```
 $ ./pizza.rb < test_round.in > test_round.out
 ```
+
+For final:
+
+```
+$ ./loon.rb < final_round.in > final_round.out
+```
